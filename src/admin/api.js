@@ -2,7 +2,7 @@ import axios from "axios";
 
 
 
-const BASE_URL = import.meta.env.VITE_API_URL || "http://localhost:8090";
+const BASE_URL = import.meta.env.VITE_API_URL || "https://bitswiser-backend.onrender.com";
 
 const API_URL = BASE_URL;
 
