@@ -67,6 +67,9 @@ function Footer() {
                             >
                                 Email
                             </a>
+                            <a href="/admin/login">
+                                Admin Login
+                            </a>
 
                         </div>
 

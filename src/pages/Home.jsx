@@ -48,6 +48,8 @@ function Home() {
             <About />
             <Contact />
             <Footer />
+
+
         </>
     );
 }
