@@ -16,6 +16,7 @@ function About() {
                             <img
                                 src="/my_image.jpg"
                                 alt="Profile"
+                                className="w-72 h-72 rounded-full bg-slate-700"
 
                             />
 
@@ -47,7 +48,7 @@ function About() {
 
 
                             <a
-                                href="YOUR_LINKEDIN_URL"
+                                href="https://www.linkedin.com/in/shaquib07/"
                                 target="_blank"
                                 rel="noreferrer"
                                 className="border border-white px-5 py-3 rounded-lg inline-block"
