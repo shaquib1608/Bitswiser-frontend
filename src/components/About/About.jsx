@@ -12,7 +12,14 @@ function About() {
 
                     <div>
 
-                        <div className="w-72 h-72 rounded-full bg-slate-700 mx-auto"></div>
+                        <div className="w-72 h-72 rounded-full bg-slate-700 mx-auto">
+                            <img
+                                src="/my_image.jpg"
+                                alt="Profile"
+
+                            />
+
+                        </div>
 
                     </div>
 

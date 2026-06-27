@@ -47,7 +47,7 @@ function Footer() {
                         <div className="flex flex-col gap-2 text-gray-400">
 
                             <a
-                                href="https://github.com/YOUR_USERNAME"
+                                href="https://github.com/shaquib1608"
                                 target="_blank"
                                 rel="noreferrer"
                             >
@@ -55,7 +55,7 @@ function Footer() {
                             </a>
 
                             <a
-                                href="https://linkedin.com/in/YOUR_USERNAME"
+                                href="https://www.linkedin.com/in/shaquib07/"
                                 target="_blank"
                                 rel="noreferrer"
                             >
@@ -63,7 +63,7 @@ function Footer() {
                             </a>
 
                             <a
-                                href="mailto:your@email.com"
+                                href="mailto:sheikhfahad00786@gmail.com"
                             >
                                 Email
                             </a>
